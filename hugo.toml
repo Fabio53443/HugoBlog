@@ -1,0 +1,37 @@
+baseURL = 'https://theseuscodes.github.io/'
+languageCode = 'en-us'
+title = 'My personal blog'
+theme = "tailwind"
+author = "Fabio53443"
+copyright = "Fabio53443"
+paginate = 10
+[params]
+  # dir name of your blog content (default is `content/posts`).
+  # the list of set content will show up on your index page (baseurl).
+  contentTypeName = "posts"
+
+  [params.header]
+    logo = "./logo.png"
+
+  [params.footer]
+    since = 2024
+    poweredby = false
+
+[menu]
+
+  [[menu.main]]
+    identifier = "post"
+    name = "Posts"
+    pageRef = "/posts"
+    weight = 0
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About me"
+    pageRef = "/about"
+    weight = 10
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"

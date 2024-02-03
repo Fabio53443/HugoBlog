@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My personal blog</title>
+    <link>https://theseuscodes.github.io/</link>
+    <description>Recent content on My personal blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Fabio53443</copyright>
+    <lastBuildDate>Sat, 03 Feb 2024 14:48:26 +0100</lastBuildDate>
+    <atom:link href="https://theseuscodes.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>https://theseuscodes.github.io/posts/about/</link>
+      <pubDate>Sat, 03 Feb 2024 14:48:26 +0100</pubDate>
+      <guid>https://theseuscodes.github.io/posts/about/</guid>
+      <description>whoami Hi 👋! I&amp;rsquo;m Fabio, an Italian high school student, and this is my personal blog.&#xA;Here, you&amp;rsquo;ll find me writing about random stuff that I&amp;rsquo;m passionate about. That spans from tech, programming, robotics and biology all the way to politics and international relations.</description>
+    </item>
+    <item>
+      <title>Post</title>
+      <link>https://theseuscodes.github.io/posts/post/</link>
+      <pubDate>Sat, 03 Feb 2024 14:48:26 +0100</pubDate>
+      <guid>https://theseuscodes.github.io/posts/post/</guid>
+      <description>Hello Test</description>
+    </item>
+  </channel>
+</rss>
